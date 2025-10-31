@@ -18,8 +18,8 @@
 | 登录界面 | 注册界面 |
 | :---: | :---: |
 |  |  |
-| **聊天主界面 (私聊/群聊)** |
-|  |
+| **<img width="844" height="440" alt="image" src="https://github.com/user-attachments/assets/13562071-51ce-49de-b45a-d7065b3e32e5" />** |
+| **<img width="373" height="324" alt="image" src="https://github.com/user-attachments/assets/161d3c63-6d96-43cb-9d8d-8b2076911e06" />** |
 
 ## 🛠️ 技术栈与架构
 
