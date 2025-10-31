@@ -13,11 +13,9 @@
 
 ## 📸 运行截图
 
-*(请在这里替换为你实验报告中的截图)*
 
-| 登录后界面 | 
-| :---: | :---: |
-|  |  |
+ 登录后界面 
+
 | **<img width="844" height="440" alt="image" src="https://github.com/user-attachments/assets/13562071-51ce-49de-b45a-d7065b3e32e5" />** |
 
 
